@@ -39,7 +39,7 @@ A modern full-stack application for analyzing and visualizing investment portfol
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/Yatharth2609/money_ai_assingment.git)
    cd money_ai
    ```
 
