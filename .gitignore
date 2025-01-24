@@ -1,0 +1,102 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build outputs
+/dist
+/build
+/out
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+*.sublime-workspace
+*.sublime-project
+
+# Testing
+/coverage
+.nyc_output
+
+# Production build
+/frontend/dist
+/frontend/build
+/backend/dist
+/backend/build
+
+# Cache directories
+.npm
+.eslintcache
+.stylelintcache
+.cache
+
+# Misc
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.swp
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# TypeScript
+*.tsbuildinfo
+
+# MongoDB
+data/
+dump/
+*.mongodb
+
+# Temporary files
+*.tmp
+*.temp
+.temp/
+.tmp/
+
+# Operating System
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Frontend specific
+/frontend/.env
+/frontend/node_modules
+/frontend/coverage
+/frontend/build
+/frontend/dist
+/frontend/.cache
+/frontend/.parcel-cache
+
+# Backend specific
+/backend/.env
+/backend/node_modules
+/backend/coverage
+/backend/build
+/backend/dist
+/backend/logs
+/backend/uploads
